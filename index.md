@@ -1,5 +1,6 @@
 # Hexapod
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+The Hexapod is a six-legged programmable robot inspired by insect movement. It has a durable acrylic body, with each leg powered by three servo motors for precise motion. Controlled by an Arduino board, it can be operated wirelessly using a smartphone, computer, or an Arduino-based controller. The Hexapod is designed for customization and provides a hands-on way to learn robotics and engineering.
+
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
