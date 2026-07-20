@@ -47,12 +47,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V3EhGzdjBcM?si=831zDcTtIsLLuKjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-
 My project is the Hexapod, a six-legged robot that combines mechanical design, electronics, and programming. I chose this project because it gives me the chance to learn many different engineering skills while building something challenging. The Hexapod is made of acrylic parts, 18 servos, a 7.2V battery, a breadboard, and other electronic components that all work together to control its movement.
 
 So far, I have completed the main body and attached all six legs. Every servo is connected to a specific port, and I have organized the wiring using cable ties to keep everything neat and reliable. I also soldered the battery connector and power wires so the battery can safely supply power to all 18 servos at the same time.
