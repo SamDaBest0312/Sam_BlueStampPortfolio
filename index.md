@@ -83,7 +83,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Calibration Graph | Brain of the Hexapod | Part of the Hexapod Kit | <a [https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN/ref=sr_1_3?crid=10MZ420A7CL5A&dib=eyJ2IjoiMSJ9.hyUjFCpcxtDvB6cSLdESXTY436oZlRkuTYKG0JfizYCq1_ZZVTbLEFVYsDM-pPWfCwsOMlmmURsyZ9cW_iF9gRrVmt-RQ8hrsqenyVERBkgqfayOo44lk2hZfnMgnVNDzxXd2wAWehYwfQm6fBlTIKKaxLxqO5kwVtiKRMQ3rq6CYH19LIrI-_ixDnrj06vpgbbRiD-N5DpfgLeV_XEGliCUxgWuxIADoykxqSvgkAeuXzpQipb53Y0uHU46Xp2t2t8GW3RstrmZ9rGIRucnRD-uA6HZG5CFdFCONfQiaSc.KV67qdpoGLse8jsJYbLY7pkWrU714tQJTBjr8bBxp_o&dib_tag=se&keywords=Freenove%2BHexapod%2BRobot%2BKit&qid=1784649369&sprefix=freenove%2Bhexapod%2Brobot%2Bki%2Caps%2C169&sr=8-3&th=1](url)"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
