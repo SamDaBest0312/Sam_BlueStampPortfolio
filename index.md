@@ -64,7 +64,9 @@ One of the biggest challenges I faced was aligning the servos correctly. While a
 
 For my next milestones, I plan to connect the controller, program the Hexapod's movements, and test its walking abilities. My goal is to have a fully functional robot that I can demonstrate at Demo Night while gaining a deeper understanding of robotics and engineering throughout the process.
 
-# Schematics 
+# Schematics
+
+Arudino UNO
 <img width="704" height="429" alt="image" src="https://github.com/user-attachments/assets/b30eb539-f655-4e15-a9f5-c931081caaf5" />
  
 
