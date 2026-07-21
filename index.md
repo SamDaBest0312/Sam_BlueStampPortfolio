@@ -41,7 +41,13 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone
 
-My second milestone was assembling and coding my robot controller. It's made with custom parts, a joystick, an acrylic plate, and a 9V Battery. On the remote is a wireless transmitter that is also placed on the robot, bridging their Bluetooth connection. This remote will help me move my robot around, which will be displayed at demo night. So far, the project has been surprisingly hard, as countless minor errors can affect the trajectory of the final product. For example, in my code, when entering the hexadecimal keys for my robot's address, I uppercased the X instead of lowercasing it. This resulted in my controller being unable to move my robot, as the ID needs to start with 0x, not 0X. Overall, the biggest challenge was learning how to use the Arduino IDE and applying my knowledge to ensure my controller is specific to my robot. Overcoming this challenge was a big step in my Hexapod journey. My next milestone is creating a functional battery holder for my robot along with a few modifications.
+Since my first milestone, I have assembled and programmed my Hexapod's wireless controller. The controller is built using custom parts, an acrylic plate, a joystick, a 9V battery, and a wireless transmitter. A matching transmitter is installed on the Hexapod, allowing the controller and robot to communicate wirelessly. This is an important step because it will allow me to control the robot's movements during Demo Night.
+
+One thing that has surprised me is how even the smallest mistakes can have a huge impact on the project. While programming the controller, I accidentally entered the robot's address as **0X** instead of **0x**. Since Arduino requires the lowercase **x** for hexadecimal values, the controller could not connect to my robot. Although the mistake was small, it took careful troubleshooting to identify and fix.
+
+The biggest challenge I overcame during this milestone was learning to use the Arduino IDE and understanding how to program the controller so it communicated specifically with my Hexapod. Through trial and error, I became much more confident in both programming and debugging.
+
+Before my final milestone, I still need to build a secure battery holder for the robot, make a few final modifications, and thoroughly test the Hexapod to ensure it is ready to be demonstrated successfully at Demo Night.
 
 # First Milestone
 
