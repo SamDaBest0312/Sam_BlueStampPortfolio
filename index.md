@@ -33,13 +33,15 @@ For your final milestone, explain the outcome of your project. Key details to in
 # Second Milestone
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4XMwXY6aMnE?si=J0ydwP5090QXWsCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone
+
+My second milestone was assembling and coding my robot controller. It's made with custom parts, a joystick, an acrylic plate, and a 9V Battery. On the remote is a wireless transmitter that is also placed on the robot, bridging their Bluetooth connection. This remote will help me move my robot around, which will be displayed at demo night. So far, the project has been surprisingly hard, as countless minor errors can affect the trajectory of the final product. For example, in my code, when entering the hexadecimal keys for my robot's address, I uppercased the X instead of lowercasing it. This resulted in my controller being unable to move my robot, as the ID needs to start with 0x, not 0X. Overall, the biggest challenge was learning how to use the Arduino IDE and applying my knowledge to ensure my controller is specific to my robot. Overcoming this challenge was a big step in my Hexapod journey. My next milestone is creating a functional battery holder for my robot along with a few modifications.
 
 # First Milestone
 
