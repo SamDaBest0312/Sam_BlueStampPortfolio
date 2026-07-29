@@ -1,7 +1,6 @@
 # Hexapod
 The Hexapod is a six-legged programmable robot inspired by insect movement. It has a durable acrylic body, with each leg powered by three servo motors for precise motion. Controlled by an Arduino board, it can be operated wirelessly using a smartphone, computer, or an Arduino-based controller. The Hexapod is designed for customization and provides a hands-on way to learn robotics and engineering.
-
-```
+q
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
