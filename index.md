@@ -1053,8 +1053,7 @@ bool isUartReady() {
 
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
+
 - [Hexapod Instruction Manual]([https://trashytuber.github.io/YimingJiaBlueStamp/](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/blob/master/Tutorial_for_V3.pdf))
 - [Camera & Arduino Nano]([https://sviatil0.github.io/Sviatoslav_BSE/](https://electricdiylab.com/how-to-use-ov7670-camera-module-with-arduino-taking-live-pictures/))
 
-To watch the BSE tutorial on how to create a portfolio, click here.
