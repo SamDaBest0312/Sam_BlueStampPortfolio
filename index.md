@@ -6,8 +6,6 @@ q
 |:--:|:--:|:--:|:--:|
 | Sam S | Valley Christian | Electrical Engineering | Incoming Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image](<img width="500" height="850" alt="cd017ab8-b460-4cc4-91d7-c27db36d8adb" src="https://github.com/user-attachments/assets/315d89e8-f7a1-4701-afed-0011b41d3ca5" />)
   
 # Final Milestone
