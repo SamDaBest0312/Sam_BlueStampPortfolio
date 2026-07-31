@@ -49,7 +49,8 @@ Arduino UNO
 
 Camera & Arduino Nano
 
-<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/7b295401-8144-4143-986d-6caa9d45b28a" />
+<img width="561" height="224" alt="image" src="https://github.com/user-attachments/assets/5057d91c-60d8-4049-acdc-9f93f9e37aa4" />
+
 
 
 # Code
