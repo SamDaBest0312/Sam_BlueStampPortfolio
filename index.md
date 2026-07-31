@@ -12,6 +12,7 @@ q
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMEbBv1B3PY?si=T5nuchgb4zZC_kLd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 My third and final milestone consisted of multiple key parts— a CADded top, a camera, and a face. First, let’s start with the CADded design I made specifically for Skitter. This top included a battery holder and a shell for the main structure of my Hexapod. I started off by noting down key measurements, and using Onshape (CAD software), I was able to bring my thoughts to reality. However, my process did face some challenges, beginning with spatial recognition. My initial iteration was inefficient when it came to both area covered and weight. Therefore, I modified it so that my battery would stand on its side, taking up minimal space, and where my shell was extremely hollow, allowing me to access the internal parts. This was the end of my third milestone, but I wanted to include some fun modifications. First, I started with a 0V7670 camera. I used an Arduino Nano instead of an Uno because it was smaller and easier to work with. Throughout this process, I encountered several roadblocks that required the assistance of my instructor (Sumi). While connecting, I realized I had to ensure my connections were secure, as there were over 20 wires jumbled over my mini breadboard. In the end, I was able to construct a functional camera, which I mounted over my face, leading me to my final modification. My face was a hand-drawn feature to make Skitter more life-like. I added googly eyes, a mustache, and even a robotic mouth, all working together to make Skitter a French robot. Here at BSE, my biggest challenge was bridging parts together as I worked with various minuscule components, requiring extreme precision during assembly. I overcame this by using spare parts and being more careful with my materials, perfecting the structure of my Hexapod. At BSE, I’ve learnt an entire spectrum of skills from understanding servos to troubleshooting code on the Arduino IDE. Soldering, wiring, and mechanical engineering are further examples of what BSE has provided me. In the future, I hope to strengthen my mechanical and hardware skills, leaving any type of software in the dust.
 
 
@@ -19,11 +20,6 @@ My third and final milestone consisted of multiple key parts— a CADded top, a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XMwXY6aMnE?si=J0ydwP5090QXWsCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone
 
 Since my first milestone, I have assembled and programmed my Hexapod's wireless controller. The controller is built using custom parts, an acrylic plate, a joystick, a 9V battery, and a wireless transmitter. A matching transmitter is installed on the Hexapod, allowing the controller and robot to communicate wirelessly. This is an important step because it will allow me to control the robot's movements during Demo Night.
 
