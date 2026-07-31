@@ -10,20 +10,12 @@ q
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kMEbBv1B3PY?si=T5nuchgb4zZC_kLd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+My third and final milestone consisted of multiple key parts— a CADded top, a camera, and a face. First, let’s start with the CADded design I made specifically for Skitter. This top included a battery holder and a shell for the main structure of my Hexapod. I started off by noting down key measurements, and using Onshape (CAD software), I was able to bring my thoughts to reality. However, my process did face some challenges, beginning with spatial recognition. My initial iteration was inefficient when it came to both area covered and weight. Therefore, I modified it so that my battery would stand on its side, taking up minimal space, and where my shell was extremely hollow, allowing me to access the internal parts. This was the end of my third milestone, but I wanted to include some fun modifications. First, I started with a 0V7670 camera. I used an Arduino Nano instead of an Uno because it was smaller and easier to work with. Throughout this process, I encountered several roadblocks that required the assistance of my instructor (Sumi). While connecting, I realized I had to ensure my connections were secure, as there were over 20 wires jumbled over my mini breadboard. In the end, I was able to construct a functional camera, which I mounted over my face, leading me to my final modification. My face was a hand-drawn feature to make Skitter more life-like. I added googly eyes, a mustache, and even a robotic mouth, all working together to make Skitter a French robot. Here at BSE, my biggest challenge was bridging parts together as I worked with various minuscule components, requiring extreme precision during assembly. I overcame this by using spare parts and being more careful with my materials, perfecting the structure of my Hexapod. At BSE, I’ve learnt an entire spectrum of skills from understanding servos to troubleshooting code on the Arduino IDE. Soldering, wiring, and mechanical engineering are further examples of what BSE has provided me. In the future, I hope to strengthen my mechanical and hardware skills, leaving any type of software in the dust.
 
 
 # Second Milestone
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XMwXY6aMnE?si=J0ydwP5090QXWsCZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -41,9 +33,8 @@ The biggest challenge I overcame during this milestone was learning to use the A
 
 Before my final milestone, I still need to build a secure battery holder for the robot, make a few final modifications, and thoroughly test the Hexapod to ensure it is ready to be demonstrated successfully at Demo Night.
 
-# First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+# First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V3EhGzdjBcM?si=831zDcTtIsLLuKjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
