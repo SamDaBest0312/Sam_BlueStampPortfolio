@@ -47,7 +47,11 @@ For my next milestones, I plan to connect the controller, program the Hexapod's 
 Arduino UNO
 
   <img width="704" height="429" alt="image" src="https://github.com/user-attachments/assets/b30eb539-f655-4e15-a9f5-c931081caaf5" />
- 
+
+Camera & Arduino Nano
+
+<img width="1280" height="989" alt="image" src="https://github.com/user-attachments/assets/7b295401-8144-4143-986d-6caa9d45b28a" />
+
 
 # Code
 
