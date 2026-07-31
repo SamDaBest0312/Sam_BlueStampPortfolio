@@ -5,7 +5,7 @@ The Hexapod is a six-legged programmable robot inspired by insect movement. It h
 |:--:|:--:|:--:|:--:|
 | Sam S | Valley Christian | Mechanical Engineering | Incoming Sophomore
 
-![Headstone Image](<img width="500" height="850" alt="cd017ab8-b460-4cc4-91d7-c27db36d8adb" src="https://github.com/user-attachments/assets/315d89e8-f7a1-4701-afed-0011b41d3ca5" />)
+![Headstone Image](<cd017ab8-b460-4cc4-91d7-c27db36d8adb.jpg>)
   
 # Final Milestone
 
